@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhnom&label=Profile%20views&color=0e75b6&style=flat" alt="zhnom" /> </p>
 
-🔭 I’m currently working on **Osint Tools**
+- 🔭 I’m currently working on **Osint Tools**
 
 - 🌱 I’m currently learning **Server Management, PY**
 
